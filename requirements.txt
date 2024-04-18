@@ -1,0 +1,9 @@
+pvporcupine
+google-cloud-speech
+google-cloud-texttospeech
+pyaudio
+opencv-python
+pydub
+Pillow
+google-generativeai
+python-dotenv

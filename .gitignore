@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv
+venv
+
+# Generated files
+frames
+temp
+
+# Environment variables
+.env
+
