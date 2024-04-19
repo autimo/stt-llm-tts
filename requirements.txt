@@ -7,3 +7,4 @@ pydub
 Pillow
 google-generativeai
 python-dotenv
+webrtcvad
