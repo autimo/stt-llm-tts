@@ -1,6 +1,7 @@
-# Python virtual environment
+# Python
 .venv
 venv
+__pycache__
 
 # Generated files
 frames
